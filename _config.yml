@@ -1,11 +1,11 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: 김포
+description: 개나리 | 느티나무 | 까치
 
-baseurl: /gradfolio #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
-email: #
+baseurl: /GIMPO_personal #name of GitHub repository
+url: "" #blank #custom url to be used instead of GitHub repository
+email: #blank
 
 # Pagination
 paginate: 4
